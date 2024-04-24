@@ -1,0 +1,24 @@
+#conteudo{
+    font-size: 25px;
+background: pink;
+width: 100%;
+position: fixed;
+height: 100%;
+padding: 20px;
+left: 0;
+top: 0;
+text-align: center;
+font-family: sans-serif;
+
+}
+
+.btn{
+font-size: 23px;
+font-family: Poppins;
+border: none;
+background: black;
+color: white;
+padding: 10px;
+width: 80px;
+border-radius: 5px;
+}
